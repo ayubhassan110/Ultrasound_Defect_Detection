@@ -23,20 +23,11 @@ A professional portfolio project demonstrating an **end-to-end machine learning 
 - Benchmark classical ML algorithms (Random Forest, XGBoost, SVM, Logistic Regression, KNN)
 - Implement deep learning architectures (1D CNN, LSTM, CNN+LSTM Hybrid, 2D CNN on spectrograms)
 - Demonstrate model interpretability and professional visualization skills
-- Deliver a portfolio-quality technical report suitable for hiring managers
+  
 
 ---
 
-##  Project Structure
 
-- Simulate realistic ultrasonic A-scan signals with physical accuracy
-- Apply professional signal preprocessing pipelines (filtering, denoising, scaling)
-- Extract domain-specific time-domain, frequency-domain, and time-frequency features
-- Perform comprehensive exploratory data analysis with PCA and t-SNE
-- Benchmark classical ML algorithms (Random Forest, XGBoost, SVM, Logistic Regression, KNN)
-- Implement deep learning architectures (1D CNN, LSTM, CNN+LSTM Hybrid, 2D CNN on spectrograms)
-- Demonstrate model interpretability and professional visualization skills
-- Deliver a portfolio-quality technical report suitable for hiring managers
 
 
 
